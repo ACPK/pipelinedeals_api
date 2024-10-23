@@ -19,7 +19,7 @@ GEM
     coderay (1.0.8)
     crack (0.3.2)
     diff-lcs (1.2.5)
-    i18n (0.6.9)
+    i18n (0.8.0)
     json (1.8.1)
     method_source (0.8.1)
     minitest (5.3.4)
